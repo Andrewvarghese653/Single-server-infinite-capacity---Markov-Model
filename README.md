@@ -21,7 +21,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Program :
-```
+```python
 #Developed by : ANDREW VARGHESE V.S
 #Register Number : 212222103001
 
